@@ -1,0 +1,1 @@
+Handle calculations seamlessly.
